@@ -28,13 +28,13 @@
 const links = [
   {
     name: "WeChat",
-    url: "https://raw.githubusercontent.com/JonHaoo/MyPic/img/img/202406171113901.jpeg?token=AUABTQ2QKAVVYTFKQ2WXZCLGN6VAI",
+    url: "https://raw.githubusercontent.com/JonHaoo/MyPic/img/img/wechat.png?token=AUABTQ3YTTLYSJB2E4C2XXDGOAKSI",
     icon: "mdi:wechat",
   },
   {
     name: "GitHub",
     url: "https://github.com/JonHaoo",
     icon: "mdi:github",
-  }
+  },
 ];
 </script>
