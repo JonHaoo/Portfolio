@@ -1,0 +1,8 @@
+{
+  "name": "短剧交易平台",
+  "url": "https://www.elinks.cn/",
+  "description": "ToB的短剧版权交易系统，包含账户管理，标签管理，短剧的新增编辑、上下架、审核等，以及官网的轮播、活动页装修配",
+  "thumbnail": "/projects/postperfect.png",
+  "status": "WIP",
+  "opensource": true
+}
